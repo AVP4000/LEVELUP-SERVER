@@ -1,0 +1,24 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "organizer": 1,
+            "date": "2024-12-15",
+            "description": "Weekly Catan Tournament",
+            "time": "19:00:00"
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "game": 2,
+            "organizer": 1,
+            "date": "2025-01-10",
+            "description": "Runescape PK Solo",
+            "time": "18:30:00"
+        }
+    }
+]

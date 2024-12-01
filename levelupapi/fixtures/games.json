@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type": 1,
+            "title": "You wish it was me",
+            "maker": "Me AGAIN",
+            "gamer": 1,
+            "number_of_players": 1,
+            "skill_level": 100
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "game_type": 2,
+            "title": "You wish it was me 2",
+            "maker": "Me AGAIN 2",
+            "gamer": 1,
+            "number_of_players": 1,
+            "skill_level": 1
+        }
+    }
+]
